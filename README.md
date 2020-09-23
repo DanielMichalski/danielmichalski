@@ -18,13 +18,13 @@ Hi, I'm [Daniel Michalski](https://www.linkedin.com/in/michalskidaniel/), a Full
 
 ![](https://visitor-badge.glitch.me/badge?page_id=danielmichalski)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/coding.gif" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
 - 👨🏽‍💻 I’m currently working on Web Portal :wink:;
 - 🌱 I’m currently learning Docker & Kubernetes and algorithms; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@danielmichalski](https://www.linkedin.com/in/michalskidaniel/);
+- 📫 How to reach me: [@DanielMichalski](https://www.linkedin.com/in/michalskidaniel/);
 
 **Languages and Tools:**  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -42,5 +42,5 @@ Hi, I'm [Daniel Michalski](https://www.linkedin.com/in/michalskidaniel/), a Full
 <details>
   <summary>📈 My GitHub Stats</summary>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=danielmichalski&show_icons=true&theme=gotham" alt="danielmichalski" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danielmichalski&show_icons=true&theme=gotham" alt="DanielMichalski" />
 </details>
