@@ -54,6 +54,6 @@ Hi, I'm [Daniel Michalski](https://www.linkedin.com/in/michalskidaniel/), a Full
 <details>
   <summary>📈 My GitHub Stats</summary>
   <br />
-  <img alt="DanielMichalski" src="https://github-readme-stats.vercel.app/api?username=danielmichalski&show_icons=true&theme=gotham" />
-  <img alt="DanielMichalski" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmichalski&theme=gotham" />
+  <img alt="DanielMichalski" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmichalski" />
+  <img alt="DanielMichalski" src="https://github-readme-stats.vercel.app/api?username=danielmichalski&show_icons=true" />
 </details>
