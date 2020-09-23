@@ -21,7 +21,7 @@ Hi, I'm [Daniel Michalski](https://www.linkedin.com/in/michalskidaniel/), a Full
 
 ![](https://visitor-badge.glitch.me/badge?page_id=danielmichalski)
 
-<img style="float: right;" alt="GIF" src="https://github.com/DanielMichalski/DanielMichalski/blob/master/images/other/coding.gif?raw=true" width="500" height="330" />
+<img align="right" alt="GIF" src="https://github.com/DanielMichalski/DanielMichalski/blob/master/images/other/coding.gif?raw=true" width="500" height="330" />
 
 **Talking about Personal Stuffs:**
 - 💻 I’m currently working on some Web Portal;
