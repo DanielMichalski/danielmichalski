@@ -18,7 +18,7 @@ Hi, I'm [Daniel Michalski](https://www.linkedin.com/in/michalskidaniel/), a Full
 
 ![](https://visitor-badge.glitch.me/badge?page_id=danielmichalski)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/coding/coding.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/DanielMichalski/DanielMichalski/blob/master/images/other/coding.gif?raw=true" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
 - 👨🏽‍💻 I’m currently working on Web Portal :wink:;
@@ -28,13 +28,9 @@ Hi, I'm [Daniel Michalski](https://www.linkedin.com/in/michalskidaniel/), a Full
 
 **Languages and Tools:** 
 <p>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>  
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring/spring.png"></code> 
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gradle/gradle.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="30" src="https://github.com/DanielMichalski/DanielMichalski/blob/master/images/technologies/java.png?raw=true"></code>  
+  <code><img height="30" src="https://github.com/DanielMichalski/DanielMichalski/blob/master/images/technologies/docker.png"></code>
+  <code><img height="30" src="https://github.com/DanielMichalski/DanielMichalski/blob/master/images/technologies/maven.png"></code>
   <br /><br />
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
