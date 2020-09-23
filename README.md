@@ -21,10 +21,11 @@ Hi, I'm [Daniel Michalski](https://www.linkedin.com/in/michalskidaniel/), a Full
 <img align="right" alt="GIF" src="https://github.com/DanielMichalski/DanielMichalski/blob/master/images/other/coding.gif?raw=true" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
-- 👨🏽‍💻 I’m currently working on Web Portal :wink:;
+- 💻 I’m currently working on sone Web Portal :wink:;
 - 🌱 I’m currently learning Docker & Kubernetes and algorithms; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@DanielMichalski](https://www.linkedin.com/in/michalskidaniel/);
+- ⚽ My hobbies: Windsurfing, Martial arts, MTB.
 
 **Languages and Tools:** 
 <p>
