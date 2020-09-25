@@ -36,10 +36,10 @@ Hi, I'm [Daniel Michalski](https://www.linkedin.com/in/michalskidaniel/), a Full
 **Languages and Tools:**
 <div>
     <a title="Java" href="http://www.java.com">
-        <img align="left" alt="java" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/java.jpg">
+        <code><img align="left" alt="java" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/java.jpg"></code>
     <a/>
     <a title="Java" href="http://www.java.com">
-        <img align="left" alt="kotlin" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/kotlin.jpg">
+        <code><img align="left" alt="kotlin" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/kotlin.jpg"></code>
     </a>
     <a title="Java" href="http://www.java.com">
         <img align="left" alt="spring" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/spring.jpg">
@@ -53,9 +53,9 @@ Hi, I'm [Daniel Michalski](https://www.linkedin.com/in/michalskidaniel/), a Full
     <a title="Java" href="http://www.java.com">
         <img align="left" alt="kubernetes" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/kubernetes.jpg">
     </a>
-</div>
-<br />
-<div>
+</p>
+<br /><br />
+<p>
     <a title="Java" href="http://www.java.com">
         <img align="left" alt="html" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/html.jpg">
     </a>
@@ -74,7 +74,7 @@ Hi, I'm [Daniel Michalski](https://www.linkedin.com/in/michalskidaniel/), a Full
     <a title="Java" href="http://www.java.com">
         <img align="left" alt="ionic" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/ionic.jpg">
     </a>
-</div>
+</p>
 
 **Statistics:**  
 <details>
