@@ -32,21 +32,43 @@ Hi, I'm [Daniel Michalski](https://www.linkedin.com/in/michalskidaniel/), a Full
 
 **Languages and Tools:** 
 <p>
-    <a href="#" title="java">
-  <code><img alt="java" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/java.jpg"></code></a>
-   <a href="#" title="java">
-  <code><img alt="kotlin" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/kotlin.jpg"></code> </a>
-  <code><img alt="spring" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/spring.jpg"></code>
-  <code><img alt="hibernate" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/hibernate.jpg"></code>
-  <code><img alt="docker" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/docker.jpg"></code>
-  <code><img alt="kubernetes" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/kubernetes.jpg"></code>
+  <a href="https://www.java.com/en/" title="Java">
+    <img alt="java" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/java.jpg">
+  </a>
+  <a href="https://kotlinlang.org/" title="Kotlin">
+    <img alt="Kotlin" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/kotlin.jpg">
+  </a>
+  <a href="https://spring.io/" title="Spring">
+    <img alt="Spring" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/spring.jpg">
+  </a>
+  <a href="https://hibernate.org/" title="Hibernate">
+    <code><img alt="Hibernate" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/hibernate.jpg"></code>
+  </a>
+  <a href="https://www.docker.com/" title="Docker">
+    <code><img alt="Docker" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/docker.jpg"></code>
+  </a>
+  <a href="https://kubernetes.io/" title="Kubernetes">
+    <code><img alt="Kubernetes" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/kubernetes.jpg"></code>
+  </a>
   <br /><br />
-  <code><img alt="html" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/html.jpg"></code>
-  <code><img alt="css" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/css.jpg"></code>
-  <code><img alt="javascript" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/javascript.jpg"></code>
-  <code><img alt="angular" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/angular.jpg"></code>
-  <code><img alt="angular_material" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/angular_material.jpg"></code>
-  <code><img alt="ionic" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/ionic.jpg"></code>
+  <a href="https://www.w3schools.com/html/" title="HTML">
+    <code><img alt="HTML" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/html.jpg"></code>
+  </a>
+  <a href="https://www.w3schools.com/css/" title="CSS">
+    <code><img alt="CSS" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/css.jpg"></code>
+  </a>
+  <a href="https://www.javascript.com/" title="JavaScript">
+    <code><img alt="JavaScript" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/javascript.jpg"></code>
+  </a>
+  <a href="https://angular.io/" title="Angular">
+    <code><img alt="Angular" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/angular.jpg"></code>
+  </a>
+  <a href="https://material.angular.io/" title="Angular Material">
+    <code><img alt="Angular Material" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/angular_material.jpg"></code>
+  </a>
+  <a href="https://ionicframework.com/" title="Ionic">
+    <code><img alt="Ionic" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/ionic.jpg"></code>
+  </a>
 </p>
 
 **Statistics:**  
