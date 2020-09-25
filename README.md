@@ -36,7 +36,7 @@ Hi, I'm [Daniel Michalski](https://www.linkedin.com/in/michalskidaniel/), a Full
 **Languages and Tools:** 
 <p>
   <code>
-  <a href="http://www.java.com">
+  <a href="http://www.java.com" title="Java">
     <img alt="java" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/java.jpg"></code>
   <a/>
   <code><img alt="kotlin" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/kotlin.jpg"></code> 
