@@ -12,9 +12,6 @@ Hi, I'm [Daniel Michalski](https://www.linkedin.com/in/michalskidaniel/), a Full
 <a href="https://github.com/DanielMichalski">
   <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://youtu.be/M0Y0T-s_mbQ">
-  <img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
 <a href="https://www.facebook.com/daniel.michalski.142/">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
@@ -33,53 +30,27 @@ Hi, I'm [Daniel Michalski](https://www.linkedin.com/in/michalskidaniel/), a Full
 - 📫 How to reach me: [@DanielMichalski](https://www.linkedin.com/in/michalskidaniel/);
 - ⚽ My hobbies: Windsurfing, Martial arts, MTB.
 
-**Languages and Tools:**
-<div>
-    <a title="Java" href="http://www.java.com">
-        <code><img align="left" alt="java" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/java.jpg"></code>
-    <a/>
-    <a title="Java" href="http://www.java.com">
-        <code><img align="left" alt="kotlin" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/kotlin.jpg"></code>
-    </a>
-    <a title="Java" href="http://www.java.com">
-        <img align="left" alt="spring" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/spring.jpg">
-    </a>
-    <a title="Java" href="http://www.java.com">
-        <img align="left" alt="hibernate" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/hibernate.jpg">
-    </a>
-    <a title="Java" href="http://www.java.com">
-        <img align="left" alt="docker" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/docker.jpg">
-    </a>
-    <a title="Java" href="http://www.java.com">
-        <img align="left" alt="kubernetes" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/kubernetes.jpg">
-    </a>
-</p>
-<br /><br />
+**Languages and Tools:** 
 <p>
-    <a title="Java" href="http://www.java.com">
-        <img align="left" alt="html" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/html.jpg">
-    </a>
-    <a title="Java" href="http://www.java.com">
-        <img align="left" alt="css" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/css.jpg">
-    </a>
-    <a title="Java" href="http://www.java.com">
-        <img align="left" alt="javascript" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/javascript.jpg">
-    </a>
-    <a title="Java" href="http://www.java.com">
-        <img align="left" alt="angular" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/angular.jpg">
-    </a>
-    <a title="Java" href="http://www.java.com">
-        <img align="left" alt="angular_material" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/angular_material.jpg">
-    </a>
-    <a title="Java" href="http://www.java.com">
-        <img align="left" alt="ionic" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/ionic.jpg">
-    </a>
+  <code><img alt="java" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/java.jpg"></code>
+  <code><img alt="kotlin" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/kotlin.jpg"></code> 
+  <code><img alt="spring" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/spring.jpg"></code>
+  <code><img alt="hibernate" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/hibernate.jpg"></code>
+  <code><img alt="docker" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/docker.jpg"></code>
+  <code><img alt="kubernetes" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/kubernetes.jpg"></code>
+  <br /><br />
+  <code><img alt="html" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/html.jpg"></code>
+  <code><img alt="css" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/css.jpg"></code>
+  <code><img alt="javascript" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/javascript.jpg"></code>
+  <code><img alt="angular" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/angular.jpg"></code>
+  <code><img alt="angular_material" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/angular_material.jpg"></code>
+  <code><img alt="ionic" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/ionic.jpg"></code>
 </p>
 
 **Statistics:**  
 <details>
   <summary>📈 My GitHub Stats</summary>
   <br />
-  <img align="left" alt="DanielMichalski" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmichalski" />
-  <img align="left" alt="DanielMichalski" src="https://github-readme-stats.vercel.app/api?username=danielmichalski&show_icons=true" />
+  <img alt="DanielMichalski" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmichalski&theme=gotham" />
+  <img alt="DanielMichalski" src="https://github-readme-stats.vercel.app/api?username=danielmichalski&show_icons=true&theme=gotham" />
 </details>
