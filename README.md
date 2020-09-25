@@ -55,12 +55,24 @@ Hi, I'm [Daniel Michalski](https://www.linkedin.com/in/michalskidaniel/), a Full
     </a>
 </div>
 <div>
-    <code><img alt="html" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/html.jpg"></code>
-    <code><img alt="css" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/css.jpg"></code>
-    <code><img alt="javascript" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/javascript.jpg"></code>
-    <code><img alt="angular" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/angular.jpg"></code>
-    <code><img alt="angular_material" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/angular_material.jpg"></code>
-    <code><img alt="ionic" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/ionic.jpg"></code>
+    <a title="Java" href="http://www.java.com">
+        <img align="left" alt="html" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/html.jpg">
+    </a>
+    <a title="Java" href="http://www.java.com">
+        <img align="left" alt="css" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/css.jpg">
+    </a>
+    <a title="Java" href="http://www.java.com">
+        <img align="left" alt="javascript" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/javascript.jpg">
+    </a>
+    <a title="Java" href="http://www.java.com">
+        <img align="left" alt="angular" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/angular.jpg">
+    </a>
+    <a title="Java" href="http://www.java.com">
+        <img align="left" alt="angular_material" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/angular_material.jpg">
+    </a>
+    <a title="Java" href="http://www.java.com">
+        <img align="left" alt="ionic" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/ionic.jpg">
+    </a>
 </div>
 
 **Statistics:**  
