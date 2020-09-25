@@ -50,7 +50,8 @@ Hi, I'm [Daniel Michalski](https://www.linkedin.com/in/michalskidaniel/), a Full
   <a href="https://kubernetes.io/" title="Kubernetes">
     <code><img alt="Kubernetes" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/kubernetes.jpg"></code>
   </a>
-  <br /><br />
+</p>
+<p>
   <a href="https://www.w3schools.com/html/" title="HTML">
     <code><img alt="HTML" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/html.jpg"></code>
   </a>
