@@ -42,16 +42,17 @@ Hi, I'm [Daniel Michalski](https://www.linkedin.com/in/michalskidaniel/), a Full
         <img align="left" alt="kotlin" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/kotlin.jpg">
     </a>
     <a title="Java" href="http://www.java.com">
-    <code><img alt="spring" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/spring.jpg"></code>
+        <img align="left" alt="spring" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/spring.jpg">
     </a>
     <a title="Java" href="http://www.java.com">
-    <code><img alt="hibernate" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/hibernate.jpg"></code>
+        <img align="left" alt="hibernate" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/hibernate.jpg">
     </a>
     <a title="Java" href="http://www.java.com">
-    <code><img alt="docker" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/docker.jpg"></code>
+        <img align="left" alt="docker" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/docker.jpg">
     </a>
     <a title="Java" href="http://www.java.com">
-    <code><img alt="kubernetes" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/kubernetes.jpg"></code>
+        <img align="left" alt="kubernetes" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/kubernetes.jpg">
+    </a>
 </div>
 <div>
     <code><img alt="html" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/html.jpg"></code>
