@@ -36,10 +36,10 @@ Hi, I'm [Daniel Michalski](https://www.linkedin.com/in/michalskidaniel/), a Full
 **Languages and Tools:**
 <div>
     <a title="Java" href="http://www.java.com">
-        <img alt="java" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/java.jpg">
+        <img align="left" alt="java" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/java.jpg">
     <a/>
     <a title="Java" href="http://www.java.com">
-        <img alt="kotlin" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/kotlin.jpg">
+        <img align="left" alt="kotlin" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/kotlin.jpg">
     </a>
     <code><img alt="spring" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/spring.jpg"></code>
     <code><img alt="hibernate" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/hibernate.jpg"></code>
