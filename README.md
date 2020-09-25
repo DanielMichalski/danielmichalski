@@ -1,21 +1,21 @@
 Hi, I'm [Daniel Michalski](https://www.linkedin.com/in/michalskidaniel/), a Full-Stack Web Developer with 8+ years of professional experience. I have been working on the design and development of a broad spectrum of projects.
 
-<a href="https://www.linkedin.com/in/michalskidaniel/">
+<a href="https://www.linkedin.com/in/michalskidaniel/" title="LinkdeIn">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://twitter.com/d__michalski">
+<a href="https://twitter.com/d__michalski" title="Twitter">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://stackoverflow.com/u/3041542">
+<a href="https://stackoverflow.com/u/3041542" title="StackOverflow">
   <img align="left" alt="StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
-<a href="https://github.com/DanielMichalski">
+<a href="https://github.com/DanielMichalski" title="GitHub">
   <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.facebook.com/daniel.michalski.142/">
+<a href="https://www.facebook.com/daniel.michalski.142/" title="Facebook">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.instagram.com/daniel_mski/">
+<a href="https://www.instagram.com/daniel_mski/" title="Instagram">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
