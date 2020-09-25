@@ -41,9 +41,16 @@ Hi, I'm [Daniel Michalski](https://www.linkedin.com/in/michalskidaniel/), a Full
     <a title="Java" href="http://www.java.com">
         <img align="left" alt="kotlin" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/kotlin.jpg">
     </a>
+    <a title="Java" href="http://www.java.com">
     <code><img alt="spring" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/spring.jpg"></code>
+    </a>
+    <a title="Java" href="http://www.java.com">
     <code><img alt="hibernate" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/hibernate.jpg"></code>
+    </a>
+    <a title="Java" href="http://www.java.com">
     <code><img alt="docker" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/docker.jpg"></code>
+    </a>
+    <a title="Java" href="http://www.java.com">
     <code><img alt="kubernetes" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/kubernetes.jpg"></code>
 </div>
 <div>
