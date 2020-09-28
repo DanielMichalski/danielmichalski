@@ -27,8 +27,8 @@ Hi, my name is [Daniel Michalski](https://www.linkedin.com/in/michalskidaniel/),
 <img align="right" alt="GIF" src="https://github.com/DanielMichalski/DanielMichalski/blob/master/images/other/coding.gif?raw=true" width="500" height="330" />
 
 **Talking about Personal Stuffs:**
-- 💻 I’m currently working on some Web Portal;
-- 🌱 I’m currently learning Docker & Kubernetes and algorithms; 
+- 💻 Currently I’m working on some Web Portal;
+- 🌱 I'm also improving my skills in Docker & Kubernetes and Algorithms; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@DanielMichalski](https://www.linkedin.com/in/michalskidaniel/);
 - ⚽ My hobbies: Windsurfing, Martial arts, MTB.
