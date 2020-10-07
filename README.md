@@ -1,4 +1,4 @@
-Hi, my name is [Daniel Michalski](https://www.linkedin.com/in/michalskidaniel/), a Full-Stack Web Developer with 8+ years of professional experience. I have been working on the design and development of a broad spectrum of projects.
+Hi, my name is [Daniel Michalski](https://danielmichalski.com/), a Full-Stack Web Developer with 8+ years of professional experience. I have been working on the design and development of a broad spectrum of projects.
 
 <a href="https://www.linkedin.com/in/michalskidaniel/" title="LinkdeIn">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
