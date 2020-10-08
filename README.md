@@ -1,8 +1,5 @@
 Hi, my name is [Daniel Michalski](https://danielmichalski.com/), a Full-Stack Web Developer with 8+ years of professional experience. I have been working on the design and development of a broad spectrum of projects.
 
-<a href="https://danielmichalski.com/" title="Website">
-  <img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/dailymotion.svg" />
-</a>
 <a href="https://www.linkedin.com/in/michalskidaniel/" title="LinkdeIn">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -23,6 +20,9 @@ Hi, my name is [Daniel Michalski](https://danielmichalski.com/), a Full-Stack We
 </a>
 <a href="https://www.instagram.com/daniel_mski/" title="Instagram">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://danielmichalski.com/" title="Website">
+  <img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/dailymotion.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=danielmichalski)
