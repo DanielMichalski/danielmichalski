@@ -1,7 +1,7 @@
 Hi, my name is [Daniel Michalski](https://danielmichalski.com/), a Full-Stack Web Developer with 8+ years of professional experience. I have been working on the design and development of a broad spectrum of projects.
 
 <a href="https://danielmichalski.com/" title="Website">
-  <img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/wikipedia.svg" />
+  <img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/dailymotion.svg" />
 </a>
 <a href="https://www.linkedin.com/in/michalskidaniel/" title="LinkdeIn">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
