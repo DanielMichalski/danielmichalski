@@ -30,7 +30,9 @@ Hi, my name is [Daniel Michalski](https://danielmichalski.com/), a Full-Stack We
 
 ![](https://visitor-badge.glitch.me/badge?page_id=danielmichalski)
 
-<img align="right" alt="GIF" src="https://github.com/DanielMichalski/DanielMichalski/blob/master/images/other/coding.gif?raw=true" width="500" height="330" />
+<a href="https://danielmichalski.com/" title="Website">
+  <img align="right" alt="GIF" src="https://github.com/DanielMichalski/DanielMichalski/blob/master/images/other/coding.gif?raw=true" width="500" height="330" />
+</a>
 
 **Talking about Personal Stuffs:**
 - 💻 Currently I’m working on my [Website](https://github.com/DanielMichalski/responsive-personal-website);
