@@ -33,7 +33,7 @@ Hi, my name is [Daniel Michalski](https://danielmichalski.com/), a Full-Stack We
 <img align="right" alt="GIF" src="https://github.com/DanielMichalski/DanielMichalski/blob/master/images/other/coding.gif?raw=true" width="500" height="330" />
 
 **Talking about Personal Stuffs:**
-- 💻 Currently I’m working on my [Personal Website](https://github.com/DanielMichalski/responsive-personal-website);
+- 💻 Currently I’m working on my [Website](https://github.com/DanielMichalski/responsive-personal-website);
 - 🌱 I'm also improving my skills in Docker & Kubernetes and Algorithms; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@DanielMichalski](https://www.linkedin.com/in/michalskidaniel/);
