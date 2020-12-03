@@ -36,7 +36,7 @@ Hi, my name is [Daniel Michalski](https://danielmichalski.com/), a Full-Stack We
 
 **Talking about Personal Stuffs:**
 - 💻 Currently I’m working on my [Website](https://github.com/DanielMichalski/responsive-personal-website);
-- 🌱 I'm also improving my skills in Microservices, Docker & Kubernetes; 
+- 🌱 I'm also improving my skills in React and Microservices; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@DanielMichalski](https://www.linkedin.com/in/michalskidaniel/);
 - ⚽ My hobbies: Windsurfing, Martial arts, MTB.
