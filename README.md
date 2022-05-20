@@ -35,13 +35,13 @@ Hi, my name is [Daniel Michalski](https://danielmichalski.com/), a Full-Stack We
 </a>
 
 **Talking about Personal Stuffs:**
-- 💻 I’m a proud father of two kids;
-- 🌱 I'm improving my skills in React and Microservices; 
+- 💻 Currently I’m working on my [Website](https://github.com/DanielMichalski/responsive-personal-website);
+- 🌱 I'm also improving my skills in React and Microservices;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@DanielMichalski](https://www.linkedin.com/in/michalskidaniel/);
 - ⚽ My hobbies: Windsurfing, MTB, Martial arts, Swimming.
 
-**Languages and Tools:** 
+**Languages and Tools:**
 <p>
   <a href="https://www.java.com/en/" title="Java" target="_blank">
     <code><img alt="java" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/java.jpg"></code>
@@ -83,7 +83,7 @@ Hi, my name is [Daniel Michalski](https://danielmichalski.com/), a Full-Stack We
   </a>
 </p>
 
-**Statistics:**  
+**Statistics:**
 <details>
   <summary>📈 My GitHub Stats</summary>
   <br />
