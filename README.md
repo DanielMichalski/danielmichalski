@@ -36,7 +36,7 @@ Hi, my name is [Daniel Michalski](https://danielmichalski.com/), a Full-Stack We
 
 **Talking about Personal Stuffs:**
 - 💻 I’m a proud father of two kids;
-- 🌱 I'm improving my skills in React and Microservices;
+- 🌱 I'm improving my skills in Microservices and DDD;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@DanielMichalski](https://www.linkedin.com/in/michalskidaniel/);
 - ⚽ My hobbies: Windsurfing, MTB, Martial arts, Swimming.
