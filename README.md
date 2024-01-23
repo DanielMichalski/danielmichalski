@@ -34,9 +34,9 @@ Hi, my name is [Daniel Michalski](https://danielmichalski.com/), a Full-Stack We
   <img align="right" alt="GIF" src="https://github.com/DanielMichalski/DanielMichalski/blob/master/images/other/coding.gif?raw=true" width="500" height="330" />
 </a>
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 - 💻 I’m a proud father of two kids;
-- 🌱 I'm improving my skills in Microservices and DDD;
+- 🌱 I'm improving my skills in Microservices, DDD and React;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@DanielMichalski](https://www.linkedin.com/in/michalskidaniel/);
 - ⚽ My hobbies: Windsurfing, MTB, Martial arts, Swimming.
