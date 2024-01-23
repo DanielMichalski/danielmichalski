@@ -39,7 +39,7 @@ Hi, my name is [Daniel Michalski](https://danielmichalski.com/), a Full-Stack We
 - 🌱 I'm improving my skills in Microservices, DDD and React;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@DanielMichalski](https://www.linkedin.com/in/michalskidaniel/);
-- ⚽ My hobbies: Windsurfing, MTB, Martial arts, Swimming.
+- ⚽ My hobbies: MTB XC, Windsurfing, Martial arts, Swimming.
 
 **Languages and Tools:**
 <p>
