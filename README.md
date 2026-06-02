@@ -82,11 +82,3 @@ Hi, my name is [Daniel Michalski](https://danielmichalski.com/), a Senior Full-S
     <code><img alt="Ionic" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/ionic.jpg"></code>
   </a>
 </p>
-
-**Statistics:**
-<details>
-  <summary>📈 My GitHub Stats</summary>
-  <br />
-  <img alt="DanielMichalski" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmichalski&theme=gotham" />
-  <img alt="DanielMichalski" src="https://github-readme-stats.vercel.app/api?username=danielmichalski&show_icons=true&theme=gotham" />
-</details>
