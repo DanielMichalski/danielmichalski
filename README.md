@@ -1,7 +1,7 @@
-Hi, my name is [Daniel Michalski](https://danielmichalski.com/), a Senior Full-Stack Engineer | Tech Lead with 14+ years of professional experience. I have been working on the design and development of a broad spectrum of projects.
+Hi, my name is [Daniel Michalski](https://danielmichalski.com/), a **Senior Full-Stack Engineer | Tech Lead** with 14+ years of professional experience in Java ecosystem, microservices architecture and payment processing systems.
 
-<a href="https://www.linkedin.com/in/michalskidaniel/" title="LinkdeIn" target="_blank">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/michalskidaniel/" title="LinkedIn" target="_blank">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/d__michalski" title="Twitter" target="_blank">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -15,36 +15,31 @@ Hi, my name is [Daniel Michalski](https://danielmichalski.com/), a Senior Full-S
 <a href="https://youtu.be/M0Y0T-s_mbQ" title="YouTube" target="_blank">
   <img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://www.facebook.com/daniel.michalski.142/" title="Facebook" target="_blank">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/daniel_mski/" title="Instagram" target="_blank">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://angel.co/u/daniel-michalski-2" title="Angelist" target="_blank">
-  <img align="left" alt="Angelist" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/angellist.svg" />
-</a>
 <a href="https://danielmichalski.com/" title="Website" target="_blank">
-  <img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/dailymotion.svg" />
+  <img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=danielmichalski)
+![](https://komarev.com/ghpvc/?username=DanielMichalski&color=blue&style=flat)
 
 <a href="https://danielmichalski.com/" title="Website" target="_blank">
   <img align="right" alt="GIF" src="https://github.com/DanielMichalski/DanielMichalski/blob/master/images/other/coding.gif?raw=true" width="500" height="330" />
 </a>
 
-**Talking about Personal Stuff:**
-- 💻 I’m a proud father of two kids;
-- 🌱 I'm improving my skills in Microservices, DDD and React;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@DanielMichalski](https://www.linkedin.com/in/michalskidaniel/);
-- ⚽ My hobbies: MTB XC, Windsurfing, Martial arts.
+**Currently working on:**
+- 🏦 Payment processing microservices at scale (Visa)
+- 🤖 Agentic AI workflows with Claude Code, MCP, and sub-agents
+- ☕ Java 17+, Spring Boot 3, Apache Kafka, Docker, Kubernetes
+
+**About me:**
+- 💻 Proud father of two kids
+- ⚽ My hobbies: MTB XC, Windsurfing, Martial arts
+- 💬 Ask me about Java, microservices, or AI-assisted development
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/michalskidaniel/)
 
 **Languages and Tools:**
 <p>
   <a href="https://www.java.com/en/" title="Java" target="_blank">
-    <code><img alt="java" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/java.jpg"></code>
+    <code><img alt="Java" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/java.jpg"></code>
   </a>
   <a href="https://kotlinlang.org/" title="Kotlin" target="_blank">
     <code><img alt="Kotlin" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/kotlin.jpg"></code>
@@ -63,22 +58,22 @@ Hi, my name is [Daniel Michalski](https://danielmichalski.com/), a Senior Full-S
   </a>
 </p>
 <p>
-  <a href="https://www.w3schools.com/html/" title="HTML" target="_blank">
-    <code><img alt="HTML" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/html.jpg"></code>
-  </a>
-  <a href="https://www.w3schools.com/css/" title="CSS" target="_blank">
-    <code><img alt="CSS" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/css.jpg"></code>
-  </a>
-  <a href="https://www.javascript.com/" title="JavaScript" target="_blank">
-    <code><img alt="JavaScript" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/javascript.jpg"></code>
+  <a href="https://reactjs.org/" title="React" target="_blank">
+    <code><img alt="React" width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
   </a>
   <a href="https://angular.io/" title="Angular" target="_blank">
     <code><img alt="Angular" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/angular.jpg"></code>
   </a>
-  <a href="https://material.angular.io/" title="Angular Material" target="_blank">
-    <code><img alt="Angular Material" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/angular_material.jpg"></code>
+  <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank">
+    <code><img alt="TypeScript" width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
   </a>
-  <a href="https://ionicframework.com/" title="Ionic" target="_blank">
-    <code><img alt="Ionic" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/ionic.jpg"></code>
+  <a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank">
+    <code><img alt="PostgreSQL" width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
+  </a>
+  <a href="https://kafka.apache.org/" title="Apache Kafka" target="_blank">
+    <code><img alt="Kafka" width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg"></code>
+  </a>
+  <a href="https://aws.amazon.com/" title="AWS" target="_blank">
+    <code><img alt="AWS" width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"></code>
   </a>
 </p>
