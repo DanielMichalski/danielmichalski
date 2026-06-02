@@ -23,7 +23,7 @@ Hi, my name is [Daniel Michalski](https://danielmichalski.com/), a **Senior Full
 <br /><br />
 
 <a href="https://danielmichalski.com/" title="Website" target="_blank">
-  <img align="right" alt="GIF" src="https://github.com/DanielMichalski/DanielMichalski/blob/master/images/other/coding.gif?raw=true" width="470" height="290" />
+  <img align="right" alt="GIF" src="https://github.com/DanielMichalski/DanielMichalski/blob/master/images/other/coding.gif?raw=true" width="450" height="280" />
 </a>
 
 **Currently working on:**
