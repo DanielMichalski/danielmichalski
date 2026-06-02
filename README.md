@@ -1,4 +1,4 @@
-Hi, my name is [Daniel Michalski](https://danielmichalski.com/), a Full-Stack Web Developer with 12+ years of professional experience. I have been working on the design and development of a broad spectrum of projects.
+Hi, my name is [Daniel Michalski](https://danielmichalski.com/), a Senior Full-Stack Engineer | Tech Lead with 14+ years of professional experience. I have been working on the design and development of a broad spectrum of projects.
 
 <a href="https://www.linkedin.com/in/michalskidaniel/" title="LinkdeIn" target="_blank">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -39,7 +39,7 @@ Hi, my name is [Daniel Michalski](https://danielmichalski.com/), a Full-Stack We
 - 🌱 I'm improving my skills in Microservices, DDD and React;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@DanielMichalski](https://www.linkedin.com/in/michalskidaniel/);
-- ⚽ My hobbies: MTB XC, Windsurfing, Martial arts, Swimming.
+- ⚽ My hobbies: MTB XC, Windsurfing, Martial arts.
 
 **Languages and Tools:**
 <p>
