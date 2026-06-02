@@ -1,4 +1,5 @@
 Hi, my name is [Daniel Michalski](https://danielmichalski.com/), a **Senior Full-Stack Engineer | Tech Lead** with 14+ years of professional experience in Java ecosystem, microservices architecture and payment processing systems.
+<br /><br />
 
 <a href="https://www.linkedin.com/in/michalskidaniel/" title="LinkedIn" target="_blank">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -19,7 +20,7 @@ Hi, my name is [Daniel Michalski](https://danielmichalski.com/), a **Senior Full
   <img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=DanielMichalski&color=blue&style=flat)
+<br /><br />
 
 <a href="https://danielmichalski.com/" title="Website" target="_blank">
   <img align="right" alt="GIF" src="https://github.com/DanielMichalski/DanielMichalski/blob/master/images/other/coding.gif?raw=true" width="500" height="330" />
